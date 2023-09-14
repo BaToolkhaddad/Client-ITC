@@ -9,7 +9,7 @@ import '../../../functions/checkinternet.dart';
 import '../../../helper/http_exception.dart';
 import '../../controller/analyis_controller.dart';
 import '../../model/nalysis_info.dart';
-class MakeAppointmentLabSecreen extends StatefulWidget {
+class   MakeAppointmentLabSecreen extends StatefulWidget {
   static const routeName = '/makeappointmentsecreen';
   const MakeAppointmentLabSecreen({super.key});
 
